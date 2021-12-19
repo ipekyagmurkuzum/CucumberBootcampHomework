@@ -1,0 +1,1 @@
+Scenario Outline created and implemented in VotesSteps.
